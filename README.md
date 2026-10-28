@@ -3,6 +3,10 @@
 Colored dots drift across the screen in response to your mouse movement — a simple mouse parallax effect.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Five colored dots at different positions on a purple background
